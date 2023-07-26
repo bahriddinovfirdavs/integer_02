@@ -1,3 +1,3 @@
 n=int(input())
-Q=n%60%60
+Q=n%3600
 print(Q)
