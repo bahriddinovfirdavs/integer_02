@@ -1,3 +1,3 @@
 k=int(input())
-Q=(k+5)%7
+Q=(k+4)%7+1
 print(Q)
