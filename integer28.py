@@ -1,3 +1,4 @@
 k=int(input())
-Q=(k+(n-1))%7
+n=int(input())
+Q=(k%7)+(n-1)
 print(Q)
