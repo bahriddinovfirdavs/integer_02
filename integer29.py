@@ -4,4 +4,7 @@ C=int(input())
 Q=A//C
 W=B//C
 J=Q*W
-print(J)
+P=A*B
+O=J*C*C
+G=P-O
+print(J,G)
